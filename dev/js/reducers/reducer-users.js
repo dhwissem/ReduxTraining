@@ -28,6 +28,14 @@ export default function () {
             age: 24,
             description: "Madi likes her dog but it is really annoying.",
             thumbnail: "http://i.imgur.com/4EMtxHB.png"
+        },
+        {
+            id: 4,
+            first: "Wissem",
+            last: "Dhaouadi",
+            age: 24,
+            description: "Wissem is awesome :) ",
+            thumbnail: "http://i.imgur.com/4EMtxHB.png"
         }
     ]
 }
